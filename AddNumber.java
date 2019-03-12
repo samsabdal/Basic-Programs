@@ -7,7 +7,7 @@ public class AddNumber
 		Scanner ss=new Scanner(System.in);
 		System.out.println("Enter 1st");
 		String s1=ss.nextLine();
-		System.out.println("Enter 1st");
+		System.out.println("Enter 2nd");
 		String s2=ss.nextLine();
 		
 		if(s1.contains(".") || s2.contains("."))

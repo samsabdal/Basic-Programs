@@ -1,4 +1,5 @@
 # Basic java Programs
+**AddNumber.java**
 1. write a java program which take 2 inputs.
 if both inputs are integer then output should be integer,
 if both inputs are floating point number then output should be double,
